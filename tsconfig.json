@@ -7,7 +7,7 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "paths": {
-      "*": ["src/types/*"]
+      "*": ["./src/*"]
     }
   },
   "include": ["src/**/*.ts", "src/index.ts"],
